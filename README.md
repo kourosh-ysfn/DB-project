@@ -1,2 +1,2 @@
 # db-project
-Final Project Of 'Database' university course
+Final project of 'Database' university course
